@@ -1,0 +1,3 @@
+FirstName,LastName,Email,Role,
+Virat,Sharma,virat123@tns.com,Developer,"*Role can be (Developer, Scrum-Master, Assurance.) case in-sensitive."
+Vijay,Tiwary,sonikush450@gmail.com,Developer,"* Email must be unique, entry will be removed automatically if duplicate email found"
